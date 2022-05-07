@@ -1,0 +1,7 @@
+{
+  "itemGroup.toms_compressibles.compressibles": "Tom's Compressibles",
+
+  "block.toms_compressibles.single_compressed_cobblestone": "Compressed Cobblestone",
+
+  "tooltip.toms_compressibles.single_compressed_cobblestone": "§8Single-Compressed (§7x9§8)§r"
+}

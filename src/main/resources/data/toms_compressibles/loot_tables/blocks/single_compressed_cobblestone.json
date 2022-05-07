@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "toms_compressibles:single_compressed_cobblestone"
+        }
+      ]
+    }
+  ]
+}

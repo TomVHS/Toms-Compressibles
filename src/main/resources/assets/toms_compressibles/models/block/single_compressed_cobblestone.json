@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "toms_compressibles:block/single_compressed_cobblestone"
+  }
+}

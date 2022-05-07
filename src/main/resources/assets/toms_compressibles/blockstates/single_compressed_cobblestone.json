@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "toms_compressibles:block/single_compressed_cobblestone"
+    }
+  }
+}
